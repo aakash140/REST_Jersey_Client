@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Java8"/>
+	<classpathentry kind="lib" path="/REST_Jersey_Server/WebContent/WEB-INF/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/REST_Jersey_Server/WebContent/WEB-INF/lib/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="/REST_Jersey_Server/WebContent/WEB-INF/lib/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="/REST_Jersey_Server/WebContent/WEB-INF/lib/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="/REST_Jersey_Server/WebContent/WEB-INF/lib/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="/REST_Jersey_Server/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
